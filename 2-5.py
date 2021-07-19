@@ -1,0 +1,1 @@
+print('Stan lee once said "excelsior"')

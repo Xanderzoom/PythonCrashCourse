@@ -1,0 +1,5 @@
+msg1 = ("hello")
+print(msg1)
+print("")
+msg2 = ("world")
+print(msg2)
